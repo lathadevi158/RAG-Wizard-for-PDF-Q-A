@@ -29,12 +29,14 @@ An AI-powered Retrieval-Augmented Generation (RAG) pipeline designed to extract,
 
 - Python 3.8+  
 - Google Generative AI API key  
-- `.env` file with your API key:
+- `.env` file with your API key
 
-📄 License
+📄 **License**  
 This project is licensed under the MIT License.
 
----------🙋‍♀️ Author---------
-Marpally Latha Devi,
-Prompt Engineer | Generative AI Developer,
-GitHub: lathadevi158
+---
+
+🙋‍♀️ **Author**  
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+GitHub: [lathadevi158](https://github.com/lathadevi158)
